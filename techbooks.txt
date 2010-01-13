@@ -1,0 +1,5 @@
+* Design Patterns - Gang of Four
+* Regular Expressions Cookbook - Jan Goyvaerts & Steven Levithan
+* The Little Schemer - Daniel P. Friedman and Matthias Felleisen
+* The Art Of Computer Programming (All the published volumes) - Donald Knuth
+* Structure and Interpretation of Computer Programs -  Harold Abelson, Gerald Jay Sussman
