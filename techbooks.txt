@@ -1,4 +1,9 @@
-* Structure and Interpretation of Computer Programs -  Harold Abelson, Gerald Jay Sussman
+* DONE Structure and Interpretation of Computer Programs -  Harold Abelson, Gerald Jay Sussman
+  CLOSED: [2010-08-23 Mon 10:59]
+  :LOGBOOK:
+  - State "DONE"       from ""           [2010-08-23 Mon 10:59] \\
+    CDK has brought this for me! :D
+  :END:
 * Programming Clojure - Stuart Halloway
 * The Joy of Clojure - Michael Fogus and Chris Houser
 * The Little Schemer - Daniel P. Friedman and Matthias Felleisen
