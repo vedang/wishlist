@@ -1,6 +1,16 @@
 * A leather jacket - for riding on my motor-bike
-* Leather Gloves
+* DONE Leather Gloves
+  CLOSED: [2010-08-30 Mon 12:33]
+  :LOGBOOK:
+  - State "DONE"       from ""           [2010-08-30 Mon 12:33] \\
+    Thanks to KK
+  :END:
 * Bean bag
 * Zippo lighter - only if it has a Beatles, Rolling Stones or Velvet Underground reference on it.
 * Any Beatles, Rolling Stones, Velvet Underground memorabilia
 * Donations towards my ebook reader/tablet fund
+* DONE "Bullet" helmet
+  CLOSED: [2010-08-30 Mon 12:33]
+  :LOGBOOK:
+  - State "DONE"       from ""           [2010-08-30 Mon 12:33]
+  :END:

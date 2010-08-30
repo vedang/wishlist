@@ -4,7 +4,11 @@
   - State "DONE"       from ""           [2010-08-23 Mon 10:59] \\
     CDK has brought this for me! :D
   :END:
-* Programming Clojure - Stuart Halloway
+* DONE Programming Clojure - Stuart Halloway
+  CLOSED: [2010-08-30 Mon 12:31]
+  :LOGBOOK:
+  - State "DONE"       from ""           [2010-08-30 Mon 12:31]
+  :END:
 * The Joy of Clojure - Michael Fogus and Chris Houser
 * The Little Schemer - Daniel P. Friedman and Matthias Felleisen
 * Regular Expressions Cookbook - Jan Goyvaerts & Steven Levithan
